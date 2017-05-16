@@ -1,0 +1,17 @@
+page-home {
+   .scroll-content{
+       background: black;
+   }
+   .mito{
+       background:white;
+       width: 150px;
+       height: 30px;
+       display: block;
+       position: relative;
+   }
+   .botoes{
+       position: absolute;
+       left: 50%;
+       bottom: 10px;
+   }
+}
